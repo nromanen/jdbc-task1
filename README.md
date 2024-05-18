@@ -20,6 +20,7 @@ For populate initial data in database you can use method executeFile from class 
 
 **After creating your tests in Actions you should have something like this picture.**
 
-<img width="880" alt="image" src="https://github.com/taqc-java/jdbc/assets/61456363/53fe5bd6-d056-49a8-8442-9b08515dbae8">
+<img width="893" alt="image" src="https://github.com/nromanen/jdbc-task1/assets/4123050/f6a7d308-7075-424a-8e6a-fc16e0d36c5a">
+
 
 
